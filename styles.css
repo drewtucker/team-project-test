@@ -179,3 +179,7 @@ text-align: center;
   grid-column: 6;
   grid-row: 7;
 }
+
+#question-box {
+  border-radius: 25px;
+}
